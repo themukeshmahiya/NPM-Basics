@@ -102,5 +102,6 @@
     to clean cache we can use command "npm cache clean" or by forcefully "npm cache clean --force"<br>
     but if you don't have any need please avoid to clean cache because npm is smart enough to maintain itself.
 
-36. Run "_npm config ls -l_" to see the complete configuration of NPM.
-
+36. Run 
+    " npm config ls -l "
+    to see the complete configuration of NPM.
