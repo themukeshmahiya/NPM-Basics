@@ -103,3 +103,4 @@
     but if you don't have any need please avoid to clean cache because npm is smart enough to maintain itself.
 
 36. Run "_npm config ls -l_" to see the complete configuration of NPM.
+
